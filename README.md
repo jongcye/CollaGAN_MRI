@@ -11,6 +11,10 @@ This repository provides a tensorflow implementation of CollaGAN for missing MR 
 > Dongwook Lee, Won-Jin Moon, Jong Chul Ye (arXiv:1905.04105)
 > [[Paper]](https://arxiv.org/pdf/1905.04105.pdf)
 
+## OS
+The package development version is tested on Linux operating systems. The developmental version of the package has been tested on the following systems:
+Linux: Ubuntu 16.04
+
 ## Requirements
 The codebase is implemented in Python 3.5.2. package versions used for development are just below.
 ```
