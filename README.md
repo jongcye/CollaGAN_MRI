@@ -1,6 +1,6 @@
 # Collaborative Generative Adversarial Networks for Missing MR contrast imputation
 
-(An implementation of "Which Contrast Does Matter? Towards a Deep Understanding of MR Contrast using Collaborative GAN", arXiv:1905.04105)
+### An implementation of "Which Contrast Does Matter? Towards a Deep Understanding of MR Contrast using Collaborative GAN", arXiv:1905.04105
 
 The main codes have two parts: one is Collaborative Generative Adversarial Networks for MR contrast imputation problem and the other is brain tumor segmentation network.
 The Collaborative GAN is a deep learning model for missing image data imputation (Dongwook Lee et al. CVPR 2019. oral). The concept for the missing image imputation is applied for MR contrast problem and this is the implementation of that using tensorflow.
@@ -27,7 +27,7 @@ cv2 			  3.4.3
 Dataset for Multimodal brain tumor segmentation challenge
 BRATS2015 (https://www.smir.ch/BRATS/Start2015)
 
-## main train files
+## Main train files
 ```
 train.py
 seg_train.py
